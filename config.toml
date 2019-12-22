@@ -1,0 +1,4 @@
+baseURL = "https://kayak.kamataryo.com/"
+languageCode = "en"
+title = "kayak.kamataryo.com"
+theme = "ananke"
